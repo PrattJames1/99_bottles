@@ -1,5 +1,5 @@
 ''' 
-This program prints every line to the song "99 bottles of beer".
+This program prints every line to the song "99 Bottles of Beer".
 '''
 
 for number in reversed(range(0, 100)):
